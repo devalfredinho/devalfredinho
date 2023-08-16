@@ -14,3 +14,5 @@
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+### Busco estágios para crescimento como Desenvolvedor Full Stack, com paixão por criar interfaces funcionais e atraentes. Ansioso para contribuir em projetos inovadores e aberto a novas conexões e colaborações na área de desenvolvimento web, design e programação.
