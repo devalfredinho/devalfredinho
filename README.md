@@ -1,8 +1,8 @@
 ### Olá! Seja Bem-Vindo ao meu perfil do GitHub 😁
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-micael-58a18326a/){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredmicael/){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devalfredinho){:target="_blank"}
+<a href="https://www.linkedin.com/in/alfred-micael-58a18326a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/alfredmicael/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/devalfredinho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 ![Alfred GitHub stats](https://github-readme-stats.vercel.app/api?username=devalfredinho&show_icons=true&theme=dark)
 
