@@ -1,18 +1,12 @@
 ## 👋 Olá! Bem-vindo ao meu perfil do GitHub
 
-Sou um entusiasta de tecnologia e apaixonado por desenvolvimento web. Estou sempre buscando aprender novas habilidades e contribuir para projetos inovadores. Minha missão é criar soluções funcionais e atraentes que tenham um impacto positivo.
+Desenvolvedor apaixonado por tecnologia e dedicado a criar soluções inovadoras no mundo do desenvolvimento web. Estou sempre em busca de novos desafios e aprendizado contínuo para aprimorar minhas habilidades.
 
 ### Redes Sociais
 
-<a href="https://www.linkedin.com/in/alfred-micael-58a18326a/" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/alfredmicael/" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://twitter.com/devalfredinho" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-micael-58a18326a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredmicael/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devalfredinho)
 
 ### Estatísticas
 
@@ -27,13 +21,7 @@ Sou um entusiasta de tecnologia e apaixonado por desenvolvimento web. Estou semp
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### Projetos Destacados
-
-- [Meu Portfolio](https://www.meuportfolio.com){:target="_blank"}
-- [Projeto Xyz](https://github.com/seuprojetoxyz){:target="_blank"}
-
 ### Sobre Mim
-
-Busco estágios para crescimento como Desenvolvedor Full Stack, com paixão por criar interfaces funcionais e atraentes. Ansioso para contribuir em projetos inovadores e aberto a novas conexões e colaborações na área de desenvolvimento web, design e programação.
+Busco constantemente desafios para aprimorar minhas habilidades como Desenvolvedor Full Stack. Minha jornada é impulsionada por minha paixão por criar interfaces inovadoras e funcionais. Estou animado para contribuir em projetos inspiradores e estou aberto a novas conexões e colaborações na área de desenvolvimento web, design e programação.
 
 > "A jornada de mil quilômetros começa com um único passo." - Lao Tzu
