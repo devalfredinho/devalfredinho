@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alfred Micael 😁
+### Olá! Seja Bem-Vindo ao meu perfil do GitHub 😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-micael-58a18326a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredmicael/)
@@ -6,7 +6,7 @@
 
 ![Alfred GitHub stats](https://github-readme-stats.vercel.app/api?username=devalfredinho&show_icons=true&theme=dark)
 
-### Tecnologias que eu uso no meu dia 😉
+### SKILLS😉
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
