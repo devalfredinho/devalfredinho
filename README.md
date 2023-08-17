@@ -6,9 +6,6 @@ Desenvolvedor apaixonado por tecnologia e dedicado a criar soluções inovadoras
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredmicael/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devalfredinho)
 
-### Estatísticas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?devalfredinho=anuraghazra&hide_progress=true)
-
 ### Habilidades:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.google.com/search?q=HTML5&sca_esv=557502889&sxsrf=AB5stBg-qit_XSwOpP7_Q-MnHKUgjmvBFg%3A1692212951557&ei=1x7dZLfOIbu65OUPy9CJ6AY&ved=0ahUKEwj3lfK-8OGAAxU7HbkGHUtoAm0Q4dUDCA8&uact=5&oq=HTML5&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUhUTUw1MgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABiKBRiwAxhDMgoQABiKBRiwAxhDSNQFULQEWLQEcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/search?q=CSS3&sca_esv=557502889&sxsrf=AB5stBg-qit_XSwOpP7_Q-MnHKUgjmvBFg%3A1692212951557&ei=1x7dZLfOIbu65OUPy9CJ6AY&ved=0ahUKEwj3lfK-8OGAAxU7HbkGHUtoAm0Q4dUDCA8&uact=5&oq=CSS3&gs_lp=Egxnd3Mtd2l6LXNlcnAiBENTUzMyDRAAGIoFGLEDGIMBGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgARIuRBQAFj_B3AAeAGQAQCYAawBoAGCBaoBAzAuNLgBA8gBAPgBAcICBxAjGIoFGCfCAgcQABiKBRhDwgILEC4YgAQYsQMYgwHCAhEQLhiDARjHARixAxjRAxiABMICCxAAGIAEGLEDGIMBwgIIEC4YgAQYsQPCAgoQABiKBRixAxhDwgIIEAAYgAQYsQPiAwQYACBBiAYB&sclient=gws-wiz-serp)
@@ -17,5 +14,3 @@ Desenvolvedor apaixonado por tecnologia e dedicado a criar soluções inovadoras
 
 ### Sobre Mim:
 Busco constantemente desafios para aprimorar minhas habilidades como Desenvolvedor Full Stack. Minha jornada é impulsionada por minha paixão por criar interfaces inovadoras e funcionais. Estou animado para contribuir em projetos inspiradores e estou aberto a novas conexões e colaborações na área de desenvolvimento web, design e programação.
-
-> "A jornada de mil quilômetros começa com um único passo." - Lao Tzu
