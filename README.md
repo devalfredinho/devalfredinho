@@ -7,7 +7,7 @@ Desenvolvedor apaixonado por tecnologia e dedicado a criar soluções inovadoras
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devalfredinho)
 
 ### Estatísticas:
-![Alfred GitHub stats](https://github-readme-stats.vercel.app/api?username=devalfredinho&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?devalfredinho=anuraghazra&hide_progress=true)
 
 ### Habilidades:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.google.com/search?q=HTML5&sca_esv=557502889&sxsrf=AB5stBg-qit_XSwOpP7_Q-MnHKUgjmvBFg%3A1692212951557&ei=1x7dZLfOIbu65OUPy9CJ6AY&ved=0ahUKEwj3lfK-8OGAAxU7HbkGHUtoAm0Q4dUDCA8&uact=5&oq=HTML5&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUhUTUw1MgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABiKBRiwAxhDMgoQABiKBRiwAxhDSNQFULQEWLQEcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp)
